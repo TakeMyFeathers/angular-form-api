@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "asdasd",
+      "email": "asdasd@asdasd",
+      "phone": "123243123",
+      "password": "asdasd"
+    },
+    {
+      "id": 2,
+      "name": "fdsgsasd",
+      "email": "asdasdh@ds",
+      "phone": "324723822",
+      "password": "bxcvbdg"
+    }
+  ]
+}
